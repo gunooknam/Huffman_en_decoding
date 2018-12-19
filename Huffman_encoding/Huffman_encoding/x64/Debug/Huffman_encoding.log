@@ -1,0 +1,4 @@
+﻿  Huffman_Encoding.cpp
+c:\users\d1444\source\repos\huffman_encoding\huffman_encoding\huffman_encoding.cpp(193): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\d1444\source\repos\huffman_encoding\huffman_encoding\huffman_encoding.cpp(195): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Huffman_encoding.vcxproj -> C:\Users\d1444\source\repos\Huffman_encoding\x64\Debug\Huffman_encoding.exe
